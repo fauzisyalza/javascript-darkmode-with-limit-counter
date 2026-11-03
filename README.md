@@ -1,5 +1,7 @@
 # javascript-darkmode-with-limit-counter
 
+*Live Demo:* https://fauzisyalza.github.io/javascript-darkmode-with-limit-counter/
+
 Learning project Sesi 4 - Implementing dark mode with a limit counter.
 
 Features:
